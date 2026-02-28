@@ -49,10 +49,6 @@ This framework emphasizes:
 **Vivek Kumar**  
 Cybersecurity Research & Threat Intelligence  
 
-<<<<<<< HEAD
-🔗 LinkedIn: https://www.linkedin.com/in/vivek-kumar-38b011391/ 
-
-=======
 🔗 LinkedIn: https://www.linkedin.com/in/vivek-kumar-38b011391/
 
 🐙 GitHub: https://github.com/vivek-threatintel  
