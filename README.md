@@ -43,3 +43,13 @@ This framework is designed to:
 - Build structured cybersecurity competence
 - Develop real-world technical depth
 - Bridge learning with professional capability
+
+---
+
+## 👨‍💻 Author
+
+**Vivek**  
+Cybersecurity Research & Threat Intelligence  
+
+🔗 LinkedIn: https://www.linkedin.com/in/vivek-kumar-38b011391/ 
+🐙 GitHub: https://github.com/vivek-threatintel  
