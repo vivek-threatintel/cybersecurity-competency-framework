@@ -46,8 +46,9 @@ This framework emphasizes:
 
 ## 👨‍💻 Author
 
-**Vivek**  
+**Vivek Kumar**  
 Cybersecurity Research & Threat Intelligence  
 
 🔗 LinkedIn: https://www.linkedin.com/in/vivek-kumar-38b011391/ 
+
 🐙 GitHub: https://github.com/vivek-threatintel  
